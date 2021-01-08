@@ -26,7 +26,7 @@
 <p align="center">
 <a href="https://github.com/velasquezerik">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=velasquezerik&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=velasquezerik&layout=compact&langs_count=8&theme=algolia&hide=javascript,html"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=velasquezerik&layout=compact&langs_count=8&theme=algolia&hide=javascript,html,tex,css"/>
 </a>
 </p>
 
