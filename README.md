@@ -30,10 +30,10 @@
 </a>
 </p>
 <a href="https://github.com/velasquezerik">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=velasquezerik&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" />
+  <img align="center" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=velasquezerik&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" />
 </a>
 <a href="https://github.com/velasquezerik">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=velasquezerik&layout=compact&langs_count=8&theme=algolia&hide=javascript,html,tex,css" />
+  <img align="center" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=velasquezerik&layout=compact&langs_count=8&theme=algolia&hide=javascript,html,tex,css" />
 </a>
 
 
