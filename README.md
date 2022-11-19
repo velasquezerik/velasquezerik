@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Software Engineer with over 9 years experience in software development. Quick learning, with good interpersonal and communication skills.\
+💡 &nbsp;Solutions Architect/Software Engineer with more than 10 years of experience in software development. Quick learning, with good interpersonal and communication skills.\
 🎓 &nbsp;I'm currently studying a master's degree in computer engineering at the Complutense University of Madrid.\
 ✉️ &nbsp;You can send me an email at erikvelasquez.25@gmail.com! I'll try to respond as soon as I can.
 
