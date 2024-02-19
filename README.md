@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Solutions Architect/Software Engineer with more than 10 years of experience in software development. Quick learning, with good interpersonal and communication skills.\
-🎓 &nbsp;I'm currently studying a master's degree in computer engineering at the Complutense University of Madrid.\
+💡 &nbsp;Solutions Architect/Software Engineer with more than 15 years of experience in software development. Quick learning, with good interpersonal and communication skills.\
+🎓 &nbsp;Experience defining and documenting reference architectures and designing prototypes for technical components (Microservices-based architectures, EDA architectures, and front-end components).
 ✉️ &nbsp;You can send me an email at erikvelasquez.25@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
